@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="Column1">CPU freq</string>
-    <string name="app_name">Calculadora de Vsel</string>
-    <string name="hello">Hola!</string>
+    <string name="Column1">Frequencia de CPU</string>
+    <string name="app_name">Vsel Calculator</string>
+    <string name="hello">Diseño de vista previa para vsel calc</string>
     <string name="arrow">-></string>
-    <string name="calc">Calcular!</string>
+    <string name="calc">¡Calcular!</string>
     <string name="mhz"> MHz</string>
-    <string name="voltage">Voltage Recomendado</string>
+    <string name="voltage">Voltaje Recomendado</string>
     <string name="credits">Creditos</string>
-    <string name="spinner">Numero de frecuencias</string>
-    <string name="welcome">Bienvenido a Calculadora de Vsel</string>
+    <string name="spinner">Numero de Frequencias</string>
+    <string name="welcome">Bienvenido a Vsel Calculator</string>
     <string name="range"> +/-2</string>
-    <string name="changelog_full_title">ChangeLog</string>
-    <string name="changelog_title">Lo Nuevo</string>
+    <string name="changelog_full_title">Lista de Cambios</string>
+    <string name="changelog_title">¿Que hay de nuevo?</string>
     <string name="changelog_ok_button">OK</string>
     <string name="changelog_show_full">mas...</string>
-    <string name="auto_detect">Auto-Detectar!</string>
+    <string name="auto_detect">¡Auto-Detectar!</string>
     <string name="Help">Ayuda</string>
     <string name="home">Inicio</string>
     
